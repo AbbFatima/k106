@@ -1,0 +1,124 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+    text-transform: uppercase;
+}
+
+.header{
+    background-color: #0D0356;
+    color: white;
+    padding: 70px 0;
+}
+
+.btn{
+    background-color: #00bbf0;
+    color: white;
+    border-radius: 0;
+    padding: 10px 25px;
+}
+
+.heading{
+    text-transform: uppercase;
+}
+
+span{
+    color: #05B9F6;
+}
+
+.services{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.card{
+    background-color: #f8f8f9;
+    border: none;
+}
+
+.aboutus{
+    background-color: #00204a;
+    color: white;
+    height: 700px;
+}
+
+.whyus{
+    text-align: center;
+}
+
+.r-img{
+    width: 120px;
+    border: 4px solid black;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+.team{
+    background-color: #00204a;
+    text-align: center;
+    padding-top: 50px;
+    margin: 50px 0 90px 0;
+}
+
+.t-card{
+    background-color: #00275A;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.t-img{
+    width: 120px;
+    border-radius: 50%;
+    border: 4px solid white;
+    margin: 30px auto;
+}
+
+.t-social{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.fab{
+    color: white;
+    cursor: pointer;
+}
+
+.fab:hover{
+    color: #00bbf0;
+}
+
+.customers{
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.c-card{
+    text-align: start;
+    box-shadow: 0 0 15px 0 rgba(0, 0, 0, 0.15);
+    padding: 20px;
+}
+
+.c-img{
+    border-radius: 50%;
+    margin-top: -70px;
+    margin-bottom: 25px;
+}
+
+.foot-main{
+    color: white;
+    background-color: #00204a;
+    padding-top: 5px;
+}
+
+.text-uppercase{
+    font-size: 24px;
+    text-transform: capitalize !important;
+}
